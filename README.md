@@ -10,6 +10,7 @@
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/Rust-F54D01?logo=rust&logoColor=564438" alt="rust logo" title="Rust" height="25" /> -->
 <!-- <img src="https://img.shields.io/badge/Blockchain-282C34?logo=ethereum&logoColor=7870e5" alt="Blockchain logo" title="Blockchain" height="25" /> -->
+<img src="https://img.shields.io/badge/LangChain-FF8C00?logo=langchain&logoColor=000000" alt="LangChain" title="Langchain" height="30" />
 <img src="https://img.shields.io/badge/Machine Learning-282C34?logo=openai&logoColor=7870e5" alt="Machine Learning" title="Machine Learning" height="30" />
 </p>
 <br/>
