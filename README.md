@@ -22,6 +22,7 @@
 
  
 ---
+![Profile views](https://komarev.com/ghpvc/?username=khushal1512)
 [![](https://visitcount.itsvg.in/api?id=khushal1512&icon=0&color=0)](https://visitcount.itsvg.in)
-![Visitor Count](https://profile-counter.glitch.me/khushal1512/count.svg)
+![](https://profile-counter.glitch.me/khushal1512/count.svg) <!-- Last working visitor counter -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
