@@ -6,7 +6,7 @@
 <table>
 <tr>
 <td>
-<b>Full Stack &amp; GenAI Engineer.</b> Building, breaking, and shipping.
+<b>Full Stack &amp; AI Engineer.</b> Building, breaking, and shipping.
 </td>
 <td>
 <a href="https://agarwalkhushal.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/agarwal-khushal/">LinkedIn</a>
